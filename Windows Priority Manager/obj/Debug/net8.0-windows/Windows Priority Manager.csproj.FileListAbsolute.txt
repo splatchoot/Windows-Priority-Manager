@@ -1,0 +1,10 @@
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows_Priority_Manager.Form1.resources
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows Priority Manager.csproj.GenerateResource.cache
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows Priority Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows Priority Manager.AssemblyInfoInputs.cache
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows Priority Manager.AssemblyInfo.cs
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows Priority Manager.csproj.CoreCompileInputs.cache
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows Priority Manager.sourcelink.json
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows11PriorityManager.Form1.resources
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Windows11PriorityManager.Program.resources
+C:\Users\splat\Documents\GitHub\Windows-Priority-Manager\Windows Priority Manager\obj\Debug\net8.0-windows\Form1.resources

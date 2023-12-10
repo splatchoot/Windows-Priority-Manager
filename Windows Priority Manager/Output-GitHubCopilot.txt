@@ -1,0 +1,11 @@
+﻿GitHub Copilot 1.116.0.0 (v1.116.0.0@5a26aa711)
+GitHub Copilot Agent v1.116.0
+[DEBUG] [agent] [2023-12-10T15:36:27.404Z] Agent service starting
+[DEBUG] [agent] [2023-12-10T15:36:27.581Z] Telemetry initialized
+Auth Status: NotSignedIn
+[INFO] AutoDetectSignInFlow: True
+[INFO] authStatus: AuthStatusResponse { Status = NotSignedIn, User =  }
+[INFO] [auth] [2023-12-10T15:37:38.442Z] Invalid copilot token: missing token: 403 
+[INFO] [auth] [2023-12-10T15:37:38.780Z] Invalid copilot token: missing token: 403 
+Auth Status: NotAuthorized
+You don't have access to GitHub Copilot.
